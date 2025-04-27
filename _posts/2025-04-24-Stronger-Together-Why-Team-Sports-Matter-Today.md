@@ -1,0 +1,20 @@
+---
+layout: single 
+title: "Stronger Together: Why Team Sports Matter Today" 
+date: 2023-10-26 14:30:00 +0800 
+
+categories:    # 文章的分类，可以是一个列表
+  - FCE
+tags:          # 文章的标签，可以是一个列表
+  - Essay
+---
+![插图](/assets/images/misc_imgs/Stronger_Together.png "插图")
+Nowadays it is a phenomenon that the people are getting fatter and fatter, and they're losing teamwork skills. Today we're going to discuss about team sports. Is it the be
+
+Firstly, playing team sports can help us to bring people together. Team sports, like ball games, needs more than five people to join. So it can let us know more people while it makes us fit.
+
+Secondly, it's convenient to organize that even communities and companies can do it. We can also hold a "Sports Day" during weekends and vacations. It don't have to be difficult and let people feel dizzy!
+
+Thirdly, team sports are very useful, too! What can be more comfortable than chilling out with sports and companies on a sunny day? Well, imagine what it can do: the elderly people won't be lonely anymore — in fact, they can be as healthy and fit as young people and teenagers! And playing team sports can also let us learn "teamwork" which nowadays people are losing. Teamwork is a really important skill in the future. 
+
+Playing transports can help us to get fit, know more people and practice our teamwork skills. It's really useful and interesting.
