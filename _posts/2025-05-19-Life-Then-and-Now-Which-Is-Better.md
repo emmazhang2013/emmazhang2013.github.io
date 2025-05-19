@@ -1,7 +1,7 @@
 ---
 layout: single 
 title: "Life Then and Now: Which Is Better?" 
-date: 2025-05-19 23:35:00 +0800 
+date: 2025-05-19 22:35:00 +0800 
 
 categories:    # 文章的分类，可以是一个列表
   - FCE
