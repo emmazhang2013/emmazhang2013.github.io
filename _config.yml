@@ -11,7 +11,7 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-remote_theme           : "mmistakes/minimal-mistakes"
+# remote_theme         : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -21,10 +21,10 @@ title                    : "Emma's Little House"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Emma"
-description              : "A little girl love reading."
-url                      : "emmazhang2013.github.io"
+description              : "A home for reading notes, writing practice, and school projects."
+url                      : "https://emmazhang2013.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "emmazhang2013/emmazhang2013.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Emma"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "A young reader and writer sharing book notes, essays, and class projects."
   location         : "Beijing"
   email            : "emma.youxi@gmail.com"
   links:
@@ -133,7 +133,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/emmazhang2013"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -228,7 +228,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Pagination with jekyll-paginate
