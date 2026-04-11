@@ -12,6 +12,14 @@ reading notes, writing practice, and school projects.
 
 ## Local Preview
 
+Fast path:
+
+```bash
+scripts/preview_site.sh
+```
+
+Manual path:
+
 ```bash
 export PATH="$HOME/.rubies/ruby-3.4.1/bin:$PATH"
 hash -r
@@ -28,6 +36,14 @@ Then open <http://127.0.0.1:4000/>.
 If Bundler needs a proxy for package downloads, export `HTTP_PROXY` and
 `HTTPS_PROXY` before running `bundle install`.
 
+## Publishing Workflow
+
+- Source of truth: `POSTING_WORKFLOW.md`
+- Post template: `templates/post.md`
+- New post scaffold: `scripts/new_post.sh`
+- Local preview helper: `scripts/preview_site.sh`
+- Codex skill source: `tools/codex-skills/emma-blog-publisher/SKILL.md`
+
 ## Important Paths
 
 - `_config.yml`: site metadata and Jekyll configuration
@@ -35,9 +51,12 @@ If Bundler needs a proxy for package downloads, export `HTTP_PROXY` and
 - `_pages/`: standalone pages such as About and archives
 - `_data/navigation.yml`: top navigation links
 - `assets/images/misc_imgs/`: images used in posts
+- `POSTING_WORKFLOW.md`: repository publishing rules
+- `templates/post.md`: reusable post skeleton
+- `scripts/`: local publishing helpers
 
 ## Notes
 
-- The site uses the `mmistakes/minimal-mistakes` remote theme.
+- The theme source is vendored in this repository for local preview stability.
 - `docs/` and `test/` are upstream theme directories and are excluded from the
   published site.

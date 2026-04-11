@@ -168,6 +168,11 @@ include:
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
+  - POSTING_WORKFLOW.md
+  - README.md
+  - scripts
+  - templates
+  - tools
   - vendor
   - .asset-cache
   - .bundle
